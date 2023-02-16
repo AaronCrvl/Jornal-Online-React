@@ -17,7 +17,8 @@ Existe uma limitação no texto da notícia retornado pela API, desta forma,  a 
 O conceito utilizado aqui foi dar prioridade aos "Controles" para que estes fizessem todas as alterações no gri de notícias em tela para que nenhum outro grupo possa fazer essas alterações, e os "Componentes" ficam responsáveis por responder a todas as ações nativas, como clique em um botão ou seleção de opção.
 
 ## Prints
-![alt text](https://github.com/[AaronCrvl]/[Jornal-Online-React]/blob/[branch]/Tela1.png?raw=true)
+Tela 1: https://github.com/AaronCrvl/Jornal-Online-React/blob/main/prints/Tela1.png
+Tela 12 https://github.com/AaronCrvl/Jornal-Online-React/blob/main/prints/Tela2.png
 
 ## Autor
 - [@AaronCrvl](https://www.github.com/AaronCrvl)
