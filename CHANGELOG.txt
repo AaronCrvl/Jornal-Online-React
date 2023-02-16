@@ -1,0 +1,3 @@
+2022-01-24 - Adição dos componentes básicos de tela (Barra de Navegação, Grid p/ controle de notícias, bloco de notícias)  
+2022-01-24 - Adição da classe que controle as chamadas da API de notícias
+2022-01-25 - Instalar nodemon: npm i -D nodemon
